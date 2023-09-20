@@ -1,1 +1,1 @@
-# mike
+# canvas-app-boilerplate
